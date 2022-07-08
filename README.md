@@ -5,15 +5,16 @@ Welcome to your fourth homework assignment.
 Again, code should be neat, well documented.  Variables should have meaningful names and be in a consistent format (I do not care if you use camelCase or under_scores in variables but be consistent.  In addition, each file should have a standard header as defined below.  Remember your line length limits of generally 80 characters and no more than 100.
 ```
 /**************************************************************
-* Class:  CSC-415-0# Summer 2022
-* Name:
-* Student ID:
-* GitHub ID:
+* Class:  CSC-415-04 Summer 2022
+* Name:Abdoulfatah Abdillahi
+* Student ID:921623492
+* GitHub ID: Abdoul1996
 * Project: Assignment 4 – Word Blast
 *
-* File: <name of this file>
+* File: <abdillahi_abdoulfatah_HW4_main.c>
 *
-* Description:
+* Description: This program is to read a file and count and tally each of the words that are 6 or more 
+                characters long. The main of this assignments was to familiarize with threads.
 *
 **************************************************************/
 ```
